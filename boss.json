@@ -1,0 +1,9 @@
+{
+	"name": "RickGeradorSenha",
+	"description": "O Gerador Senha é responsável por gerar senhas com base nas configurações fornecidas. Ela suporta diferentes tipos de senhas e permite configurar o tamanho, tipo, prefixo e conversão em hash da senha.",
+	"version": "1.0.1",
+	"homepage": "www.r2dw.com.br",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}

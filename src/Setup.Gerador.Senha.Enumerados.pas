@@ -1,0 +1,13 @@
+unit Setup.Gerador.Senha.Enumerados;
+
+interface
+Type
+{$SCOPEDENUMS ON}
+  TTipoSenha = (TODOS,  LETRA_MAIUSCULA_MINUSCULA_NUMERO, LETRA_MAIUSCULA_MINUSCULA,
+                  LETRA_MAIUSCULA_NUMERO, LETRA_MINUSCULA_NUMERO, LETRA_MAIUSCULA,
+                  LETRA_MINUSCULA, NUMERO);
+
+{$SCOPEDENUMS OFF}
+implementation
+
+end.
