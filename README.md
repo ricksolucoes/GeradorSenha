@@ -72,7 +72,7 @@ begin
   // Displaying the generated password
   ShowMessage('Generated password: ' + senha);
 end;
-
+```
 # GeradorSenha (Português)
 ## ⚙️ Instalação
 A instalação pode ser feita usando o comando [`boss install`](https://github.com/HashLoad/boss):
